@@ -1,0 +1,24 @@
+ul{
+    list-style-type: none;
+}
+.link {
+    color: #FAF4EA;
+}
+
+.link:hover {
+    color: #819B57;
+}
+
+.hero-title {
+    font-size: 128px;
+    color: #FAF4EA;
+}
+
+.hero-title .accent{
+    color: #819B57;
+}
+
+.advantages-list {
+    color: #FAF4EA;
+    background-color: #819B57;
+}
